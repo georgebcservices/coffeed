@@ -7,8 +7,6 @@ For more information on this file, see
 https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/
 """
 
-coffeed/wsgi.py
-
 import os
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "coffeed.settings")
